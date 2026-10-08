@@ -1,13 +1,9 @@
-<div align="center">
-
-<img src="https://media1.tenor.com/m/kYVsJQZwUFcAAAAd/dan-da-dan-dandadan.gif" alt="banner" width="50%">
-
 # 👋 Hai, aku Irel
 **iRELDevz — Some Random Developer**
 
 `Uncoz · AI Dev` &nbsp;|&nbsp; `Reminecraft · Dev` &nbsp;|&nbsp; `Luckyps · Dev` &nbsp;|&nbsp; `Enderscript · Dev` &nbsp;|&nbsp; `Fasscript · Dev` &nbsp;|&nbsp; `Bomba Project · Dev`
 
-*Walaupun hobi saya santai, untuk urusan coding saya serius dan suka mengeksplorasi sistem yang kompleks!* 🔥
+*Driven by complex systems and a habit of seeing every challenge through to the finish.* 🔥
 
 ![Location](https://img.shields.io/badge/Indonesia-🇮🇩-red?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Building-Enderscript-orange?style=for-the-badge)
