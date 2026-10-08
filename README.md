@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://media1.tenor.com/m/kYVsJQZwUFcAAAAd/dan-da-dan-dandadan.gif" alt="banner" width="100%">
+
 # 👋 Hai, aku Irel
 **iRELDevz — Some Random Developer**
 
