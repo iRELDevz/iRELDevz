@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://media1.tenor.com/m/kYVsJQZwUFcAAAAd/dan-da-dan-dandadan.gif" alt="banner" width="100%">
+<img src="https://media1.tenor.com/m/kYVsJQZwUFcAAAAd/dan-da-dan-dandadan.gif" alt="banner" width="50%">
 
 # 👋 Hai, aku Irel
 **iRELDevz — Some Random Developer**
