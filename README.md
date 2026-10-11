@@ -5,8 +5,6 @@
 
 `Uncoz · AI Dev` &nbsp;|&nbsp; `Reminecraft · Dev` &nbsp;|&nbsp; `Luckyps · Dev` &nbsp;|&nbsp; `Enderscript · Dev` &nbsp;|&nbsp; `Fasscript · Dev` &nbsp;|&nbsp; `Bomba Project · Dev`
 
-*Driven by complex systems and a habit of seeing every challenge through to the finish.* 🔥
-
 ![Location](https://img.shields.io/badge/Indonesia-🇮🇩-red?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Building-Enderscript-orange?style=for-the-badge)
 
