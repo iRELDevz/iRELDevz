@@ -1,7 +1,7 @@
 <div align="center">
 
 # 👋 Hai, aku Irel
-**iRELDevz — Some Random Developer**
+**iRELDevz | Some Random Developer**
 
 `Uncoz · AI Dev` &nbsp;|&nbsp; `Reminecraft · Dev` &nbsp;|&nbsp; `Luckyps · Dev` &nbsp;|&nbsp; `Enderscript · Dev` &nbsp;|&nbsp; `Fasscript · Dev` &nbsp;|&nbsp; `Bomba Project · Dev`
 
